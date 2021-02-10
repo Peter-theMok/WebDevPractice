@@ -10,12 +10,28 @@ p {
     position: absolute;
 }
 
-#name {
+#title {
     font-size: 50px;
     padding: 0px;
-    margin-top: 9px;
-    margin-left: 100px;
+    top: 9px;
+    left: 100px;
     position: absolute;
+    font-family: Consolas;
+}
+
+#purpose {
+    font-size: 30px;
+    padding: 0px;
+    top: 31px;
+    left: 80%;
+    position: fixed;
+    width: 100%;
+
+}
+
+#portriat {
+    width:15%;
+    height:15%;
 }
 
 #navigationBar {
